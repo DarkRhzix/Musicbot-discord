@@ -1,4 +1,4 @@
-### Discord.js Lavalink Music Bot using erela.js
+### Discord.js Lavalink Music Bot
 
 # LAVA MUSIC 
 
